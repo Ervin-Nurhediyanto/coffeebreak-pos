@@ -1,0 +1,5 @@
+.bg-home {
+  background-image: url(../../img/bg-home.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
